@@ -1,0 +1,5 @@
+#inculde<stio.in
+voidmain ()
+{
+print("hello world ...!!!");
+}
